@@ -4,7 +4,8 @@ public class MinhaClasse {
 	
 public static void main (String [] args) {
 	String primeiroNome = "Marcos"; 
-	String segundoNome = "José";  
+	String segundoNome = "Jos";   
+	asdasdasd
 	
 	String nomeCompleto = nomeCompleto (primeiroNome,segundoNome); 
 	
