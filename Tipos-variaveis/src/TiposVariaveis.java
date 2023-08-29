@@ -9,6 +9,6 @@ public class TiposVariaveis {
         int numero2 = 2; 
         
         boolean simNao = numero1 == numero2;
-
+        
     }
 }
